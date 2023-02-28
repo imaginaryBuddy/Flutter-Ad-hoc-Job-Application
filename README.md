@@ -1,4 +1,4 @@
-# SC2006_Depressed-Mahjong-Tables
+# Ad Hoc Job Flutter Application
 
 <!--Project Logo-->
 
@@ -47,6 +47,9 @@ Demo Video: <a href="https://www.youtube.com/watch?v=qQqhNCfb_UQ"> <img src="htt
         </li>
  </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## To run 
+`flutter run`
 
 ## Contributors
 
